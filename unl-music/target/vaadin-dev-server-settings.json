@@ -1,0 +1,17 @@
+{
+  "frontendFolder": "/home/ariana/Escritorio/unl-music/./src/main/frontend",
+  "themeFolder": "themes",
+  "themeResourceFolder": "/home/ariana/Escritorio/unl-music/./src/main/frontend/generated/jar-resources",
+  "staticOutput": "/home/ariana/Escritorio/unl-music/target/classes/META-INF/VAADIN/webapp/VAADIN/static",
+  "generatedFolder": "generated",
+  "statsOutput": "/home/ariana/Escritorio/unl-music/target/classes/META-INF/VAADIN/config",
+  "frontendBundleOutput": "/home/ariana/Escritorio/unl-music/target/classes/META-INF/VAADIN/webapp",
+  "devBundleOutput": "/home/ariana/Escritorio/unl-music/target/dev-bundle/webapp",
+  "devBundleStatsOutput": "/home/ariana/Escritorio/unl-music/target/dev-bundle/config",
+  "jarResourcesFolder": "/home/ariana/Escritorio/unl-music/./src/main/frontend/generated/jar-resources",
+  "themeName": "default",
+  "clientServiceWorkerSource": "/home/ariana/Escritorio/unl-music/target/sw.ts",
+  "pwaEnabled": false,
+  "offlineEnabled": false,
+  "offlinePath": "'offline.html'"
+}
